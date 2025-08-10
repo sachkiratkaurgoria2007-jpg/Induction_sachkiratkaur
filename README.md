@@ -3,6 +3,12 @@
 **Programme**:CSE & IT Induction
 **Dates Covered**: 31-07-25 to 08-08-25
 
+## Introduction
+
+**Guru Nanak Dev Engineering College (GNDEC)**, Ludhiana, is one of the premier engineering institutions in Punjab, established in 1956 under the aegis of **Nankana Sahib Education Trust**. The college is committed to providing quality technical education, guided by the teachings of Guru Nanak Dev Ji, and fostering values of service, discipline, and humility. GNDEC is affiliated with I.K. Gujral Punjab Technical University and is approved by AICTE.
+
+The campus is equipped with modern infrastructure, well-furnished laboratories, a rich library, and facilities that encourage both academic excellence and extracurricular involvement. The institution’s vision is to create competent professionals who are not only skilled in their field but also possess strong moral and ethical values.
+
 ## Day 1 (Thursday)
 
 **Theme / Focus**:Welcome Ceremony and Introduction to College
@@ -197,6 +203,12 @@ The expert talk on millets was eye-opening, showing how small dietary changes ca
 
 **Key Takeaway:**
 A healthy lifestyle supports academic success, and consistent learning keeps knowledge fresh and applicable.
+
+## Conclusion
+
+The induction programme at GNDEC was a wonderful and enriching experience for me. It not only gave me a warm welcome into the college environment but also introduced me to its **rich culture, values, and traditions. Through various lectures, expert talks, and interactive sessions**, I gained valuable knowledge about my department, the facilities available, and the opportunities the college offers for academic and personal growth.
+
+I also learnt the importance of **discipline, teamwork, and staying open to new experiences**. Listening to alumni and industry experts inspired me to set clear goals for my future and work hard to achieve them. Overall, the programme helped me feel confident, connected, and motivated to begin my journey as a GNDEC student with enthusiasm and dedication.
 
 
 
