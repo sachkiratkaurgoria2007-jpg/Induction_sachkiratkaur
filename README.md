@@ -211,8 +211,8 @@ The induction programme at GNDEC was a wonderful and enriching experience for me
 I also learnt the importance of **discipline, teamwork, and staying open to new experiences**. Listening to alumni and industry experts inspired me to set clear goals for my future and work hard to achieve them. Overall, the programme helped me feel confident, connected, and motivated to begin my journey as a GNDEC student with enthusiasm and dedication.
 
 **Thankyou**
-—*Sachkirat kaur Goria*_,
-_*student of cse*_
+~Sachkirat kaur Goria
+~student of cse
 
 
 
