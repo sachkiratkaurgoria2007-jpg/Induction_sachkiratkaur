@@ -1,16 +1,13 @@
 # Induction programme 
-# Institution: 
-Guru Nanak Dev Engineering College, Ludhiana
-# Programme:
-CSE & IT Induction
+Institution: Guru Nanak Dev Engineering College, Ludhiana
+Programme:CSE & IT Induction
 Dates Covered: 31-07-25 to 08-08-25
 ## Day 1 – [31-07-25]
 
-_list 1
-# Theme 
+_list 1Theme 
 / Focus: Welcome Ceremony and Introduction to College
 
-# Activities:
+_list 2 Activities:
 The day began with Path at the college Gurudwara, marking an auspicious start to the induction.
 
 In the auditorium, senior students warmly welcomed the freshers with speeches and greetings.
