@@ -13,7 +13,6 @@ In the auditorium, senior students warmly welcomed the freshers with speeches an
 An introduction to GNDEC, Ludhiana, and its heritage was given.
 
 **Key Speakers & Messages**
-
 **Dr. Harpreet Grewal**– HOD, Applied Sciences, welcomed the students and shared guidance on academic discipline.
 
 **Dr. Kiran Jyoti** – HOD, CSE, introduced departmental opportunities and encouraged active participation in technical activities.
@@ -61,3 +60,28 @@ The day balanced academic evaluation with inspiring discussions on wellness and 
 
 **Key Takeaway:**
 College success depends not only on academic skills but also on health, balance, and active participation in campus life.
+
+## Day 3
+
+**Theme / Focus:**
+Expert Lectures on Science and Human Values
+
+**Activities:**
+
+* Expert Lecture by Dr. Jaswinder Singh (Incharge, IAPT) in the auditorium, focusing on scientific thinking and the role of applied physics in engineering education.
+
+* Expert Lecture by Dr. Priya Darshini Madam on "Universal Human Values", highlighting ethical principles, empathy, and responsible citizenship.
+
+
+**Key Speakers & Messages:**
+
+* Dr. Jaswinder Singh – Emphasized the importance of curiosity, experimentation, and analytical skills in solving real-world problems.
+
+* Dr. Priya Darshini Madam – Encouraged students to develop a value-driven approach in academics and life, fostering respect, cooperation, and integrity.
+
+
+**Personal Reflection:**
+The day was enlightening as it bridged technical knowledge with moral values. Dr. Jaswinder Singh’s insights reinforced the need for a scientific mindset in engineering, while Dr. Priya Darshini’s talk reminded me that technical excellence must be balanced with strong ethical grounding.
+
+**Key Takeaway:**
+True education combines intellectual growth with moral responsibility, preparing students to contribute meaningfully to society.
