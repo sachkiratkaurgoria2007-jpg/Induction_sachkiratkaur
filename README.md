@@ -1,7 +1,7 @@
 # Induction programme 
-Institution: Guru Nanak Dev Engineering College, Ludhiana
-Programme:CSE & IT Induction
-Dates Covered: 31-07-25 to 08-08-25
+**Institution**: Guru Nanak Dev Engineering College, Ludhiana
+**Programme**:CSE & IT Induction
+**Dates Covered**: 31-07-25 to 08-08-25
 
 ## Day 1 
 
@@ -15,17 +15,17 @@ An introduction to GNDEC, Ludhiana, and its heritage was given.
 **Key Speakers & Messages**
 **Dr. Harpreet Grewal**– HOD, Applied Sciences, welcomed the students and shared guidance on academic discipline.
 
-**Dr. Kiran Jyoti** – HOD, CSE, introduced departmental opportunities and encouraged active participation in technical activities.
+* **Dr. Kiran Jyoti** – HOD, CSE, introduced departmental opportunities and encouraged active participation in technical activities.
 
-**Dr. Sehajpal** – Principal, delivered an inspiring speech on lifelong learning and values.
+* **Dr. Sehajpal** – Principal, delivered an inspiring speech on lifelong learning and values.
 
-**Dr. Akshay Gidhar** – Explained various college facilities available to students.
+* **Dr. Akshay Gidhar** – Explained various college facilities available to students.
 
-**Senior Trustee of Nankana Sahib Trust**– Highlighted the trust’s vision for education and student growth.
+* **Senior Trustee of Nankana Sahib Trust**– Highlighted the trust’s vision for education and student growth.
 
-**Mr. Rakesh Kumar** – Alumni of 1991 batch, currently serving at ABC Ludhiana, shared his career journey and memories of college life.
+* **Mr. Rakesh Kumar** – Alumni of 1991 batch, currently serving at ABC Ludhiana, shared his career journey and memories of college life.
 
-**Mr. Ravinder Garg** – Chief Engineer, Municipal Corporation Ludhiana, motivated students to serve society through their profession.
+* **Mr. Ravinder Garg** – Chief Engineer, Municipal Corporation Ludhiana, motivated students to serve society through their profession.
 
 Presentation on the Vidya Lakshmi Scheme for student financial assistance.
 
@@ -112,4 +112,42 @@ The day combined technical learning with moral guidance. Academic lectures refre
 
 **Key Takeaway:**
 Balancing academics with values and extracurricular engagement leads to holistic growth.
+
+## Day 5 
+
+**Theme / Focus**: Regular Academic Lectures and ID Card Formation
+
+**Activities:**
+
+* Morning sessions included lectures in P2P, Mathematics, Chemistry, English, and BEEE, focusing on strengthening the core subjects.
+
+* Students also underwent ID Card Formation process in scheduled slots.
+
+* Personal Reflection:
+The day was academically packed, covering multiple foundational subjects. The ID card process made the feeling of officially becoming part of the college more real.
+
+**Key Takeaway:**
+Efficient time management is important to balance administrative formalities and academics.
+
+## Day 6 (Wednesday)
+
+**Theme / Focus:** Academic Learning and Expert Insights
+
+**Activities:**
+
+* Morning included P2P, Chemistry, Mathematics, English, and BEEE lectures, building on previous sessions.
+
+**Afternoon auditorium sessions featured:**
+
+* **Dr. Arvind Dhingra** – Lecture on innovation, technical skills, and career preparation.
+
+* **Mr. Jasvir Singh Sekhon** – Expert lecture on STEM education and its real-world applications.
+
+* **Dr. Lakhvir Singh Khana**– Session on professional ethics and leadership qualities.
+
+**Personal Reflection:**
+The day offered a balanced blend of academics and inspirational talks. The expert lectures broadened my perspective on both technical growth and personal development.
+
+**Key Takeaway:**
+Combining technical knowledge with guidance from experienced professionals enriches the learning experience.
 
