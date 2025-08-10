@@ -3,7 +3,7 @@
 **Programme**:CSE & IT Induction
 **Dates Covered**: 31-07-25 to 08-08-25
 
-## Day 1 
+## Day 1 (Thursday)
 
 **Theme / Focus**:Welcome Ceremony and Introduction to College
 Activities:The day began with Path at the college Gurudwara, marking an auspicious start to the induction.
@@ -35,7 +35,7 @@ The day was both inspiring and informative. Beginning with the Path set a spirit
 **Key Takeaway:**
 A strong foundation in values, knowledge, and community spirit is essential for a meaningful college journey.
 
-## Day 2
+## Day 2 (Friday)
 
 **Theme / Focus:** Assessments and Expert Sessions
 
@@ -61,7 +61,7 @@ The day balanced academic evaluation with inspiring discussions on wellness and 
 **Key Takeaway:**
 College success depends not only on academic skills but also on health, balance, and active participation in campus life.
 
-## Day 3
+## Day 3 (Saturday)
 
 **Theme / Focus:**
 Expert Lectures on Science and Human Values
@@ -86,7 +86,7 @@ The day was enlightening as it bridged technical knowledge with moral values. Dr
 **Key Takeaway:**
 True education combines intellectual growth with moral responsibility, preparing students to contribute meaningfully to society.
 
-## Day 4 
+## Day 4 (Monday)
 
 **Theme / Focus:** Academic Lectures and Value-Based Learning
 
@@ -113,7 +113,7 @@ The day combined technical learning with moral guidance. Academic lectures refre
 **Key Takeaway:**
 Balancing academics with values and extracurricular engagement leads to holistic growth.
 
-## Day 5 
+## Day 5 (Tuesday)
 
 **Theme / Focus**: Regular Academic Lectures and ID Card Formation
 
@@ -150,4 +150,53 @@ The day offered a balanced blend of academics and inspirational talks. The exper
 
 **Key Takeaway:**
 Combining technical knowledge with guidance from experienced professionals enriches the learning experience.
+
+## Day 7 (Thursday)
+
+**Theme / Focus:** Guidance Sessions and Regular Academics
+
+**Activities:**
+
+**Morning auditorium sessions included:**
+
+* **Dr. Amit Kamra** – Guidance on academic structure and departmental responsibilities.
+
+* **Dr. Parminder Singh** – Talk on student welfare and available support systems in the college.
+
+* **Dr. Randhir Singh**– Session on “Conduct of Examination,” explaining rules, procedures, and best practices.
+
+
+* Afternoon was dedicated to subject lectures in Mathematics, Chemistry, BEEE, English, and P2P, continuing academic progression.
+
+* ID Card Formation process was conducted for scheduled students.
+
+
+**Personal Reflection:**
+The guidance from faculty clarified important academic and welfare aspects, ensuring we know where to turn for support. Academic lectures kept the momentum of learning steady.
+
+**Key Takeaway:**
+Understanding institutional processes and resources is as important as excelling in academics.
+
+## Day 8 (Friday)
+
+**Theme / Focus:** Health Awareness and Academic Learning
+
+**Activities:**
+
+* Morning began with an Expert Lecture by Mrs. Shaffy Makkar on “Millets – Super Food”, highlighting their nutritional value and role in a healthy diet.
+
+* The ID Card Formation process continued for scheduled students.
+
+* Academic lectures throughout the day covered Chemistry, BEEE, Mathematics, English, and P2P, ensuring steady progress in the core subjects.
+
+* **Prof. Jaswant Singh** delivered a session reinforcing key academic concepts and professional approach.
+
+
+**Personal Reflection:**
+The expert talk on millets was eye-opening, showing how small dietary changes can boost health. Balancing these awareness sessions with regular academics made the day both informative and productive.
+
+**Key Takeaway:**
+A healthy lifestyle supports academic success, and consistent learning keeps knowledge fresh and applicable.
+
+
 
