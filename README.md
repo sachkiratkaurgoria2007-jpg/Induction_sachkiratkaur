@@ -85,3 +85,31 @@ The day was enlightening as it bridged technical knowledge with moral values. Dr
 
 **Key Takeaway:**
 True education combines intellectual growth with moral responsibility, preparing students to contribute meaningfully to society.
+
+## Day 4 
+
+**Theme / Focus:** Academic Lectures and Value-Based Learning
+
+**Activities:**
+
+* P2P Lecture for students conducted by seniors and Chemistry Lecture by Prof. Rajvir kaur
+
+* Expert Lecture by Dr. Priya Darshni Madam on "Universal Human Values – 2" in the auditorium, focusing on practical ways to integrate values into daily life and decision-making.
+
+* Session by Causmic Club in the auditorium with engaging activities and discussions.
+
+**Key Speakers & Messages:**
+
+* Faculty Members – Delivered subject lectures to strengthen core academic foundations in chemistry, English, P2P, and BEEE.
+
+* Dr. Priya Darshni Madam – Encouraged students to translate moral principles into actions, emphasizing empathy, teamwork, and integrity.
+
+* Causmic Club – Continued their interactive induction activities to promote teamwork and creativity.
+
+
+**Personal Reflection:**
+The day combined technical learning with moral guidance. Academic lectures refreshed my subject knowledge, while the session on Universal Human Values reminded me that education is incomplete without ethics. The Causmic Club activities brought a lighter, collaborative touch to the day.
+
+**Key Takeaway:**
+Balancing academics with values and extracurricular engagement leads to holistic growth.
+
