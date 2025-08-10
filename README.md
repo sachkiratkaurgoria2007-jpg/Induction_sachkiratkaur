@@ -10,7 +10,7 @@
 The campus is equipped with modern infrastructure, well-furnished laboratories, a rich library, and facilities that encourage both academic excellence and extracurricular involvement. The institution’s vision is to create competent professionals who are not only skilled in their field but also possess strong moral and ethical values.
 
 ## Day 1 (Thursday)
-![Alt text](https://ibb.co/5h5CjzCB)
+![Alt text](https://photos.app.goo.gl/KKyTvGt3G2tbQrwU9)
 
 **Theme / Focus**:Welcome Ceremony and Introduction to College
 Activities:The day began with Path at the college Gurudwara, marking an auspicious start to the induction.
