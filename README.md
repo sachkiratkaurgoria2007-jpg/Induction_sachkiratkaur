@@ -1,6 +1,9 @@
 # Induction programme 
+
 **Institution**: Guru Nanak Dev Engineering College, Ludhiana
+
 **Programme**:CSE & IT Induction
+
 **Dates Covered**: 31-07-25 to 08-08-25
 
 ## Introduction
